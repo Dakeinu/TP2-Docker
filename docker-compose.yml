@@ -1,7 +1,7 @@
 version: "3.7"
 services:
   node:
-    image: my_super_app:latest
+    image: my_super_app
     restart: always
     environment:
       MYSQL_DATABASE_USERNAME: user

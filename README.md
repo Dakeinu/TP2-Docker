@@ -11,5 +11,6 @@ docker build -t my_super_app .
 
 ## Question 4 
 
+docker-compose up -d (Utiliser sudo si les permissions sont refusées)
 ![](docker-compose.png)
 ![](compose-terminal.png)
